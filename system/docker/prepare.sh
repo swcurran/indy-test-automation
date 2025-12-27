@@ -39,7 +39,7 @@ docker_routine_path="$repo_path/system/docker"
 
 workdir_path="/tmp/indy-test-automation"
 
-image_repository="hyperledger/indy-test-automation"
+image_repository="hyperledger-indy/indy-test-automation"
 docker_compose_image_name="${image_repository}:docker-compose"
 
 node_env_variables=" \

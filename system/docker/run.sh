@@ -54,7 +54,7 @@ group_id=$(id -g)
 
 workdir_path="/tmp/indy-test-automation"
 
-image_repository=${IMAGE_REPOSITORY:="hyperledger/indy-test-automation"}
+image_repository=${IMAGE_REPOSITORY:="hyperledger-indy/indy-test-automation"}
 client_image=${CLIENT_IMAGE:=":client-${UBUNTU_VERSION}"}
 client_image_name="${image_repository}${client_image}"
 node_image=${NODE_IMAGE:=":node-${UBUNTU_VERSION}"}

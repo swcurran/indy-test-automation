@@ -1,10 +1,10 @@
 # SPDX-License-Identifier: Apache-2.0
 
 # Indy Admin
-*       @hyperledger/indy-admin
+*       @hyperledger-indy/indy-admin
 
 # Indy Common
-*       @hyperledger/indy-common
+*       @hyperledger-indy/indy-common
 
 # Indy Test Automation
-*       @hyperledger/indy-test-automation
+*       @hyperledger-indy/indy-test-automation
